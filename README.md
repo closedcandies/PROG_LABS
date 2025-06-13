@@ -1,5 +1,5 @@
-Lab1 ready ❤️
-Lab3 ready ❤️
-Lab4 in progress 🕔
-Lab6 in progress 🕔
+Lab1 ready ❤️\n
+Lab3 ready ❤️\n
+Lab4 in progress 🕔\n
+Lab6 in progress 🕔\n
 
